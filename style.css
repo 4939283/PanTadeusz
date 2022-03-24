@@ -2,3 +2,26 @@ body{
 	padding-top:0;
 	margin-left:232px;
 }
+
+.navbar.fixed-left{
+	position:fixed;
+	top:0;
+	left:0;
+	right:0;
+	z-index:1030;
+	background-color: #4E342E;
+	}
+
+
+.navbar.fixed-left{
+	bottom:0;
+	width:232px;
+	flex-flow:column nowrap;
+	align-items:flex-start;
+	}
+		
+.navbar.fixed-left
+.navbar-nav{
+	flex-direction:column;
+	width:100%;
+	}
