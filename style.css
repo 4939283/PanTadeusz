@@ -54,6 +54,15 @@ li
 	padding-top: 40px;
 	font-size: x-large;
 	padding-bottom: 40px;
+	height:auto;
+}
+
+.content1{
+	text-align: center;
+	font-family: Georgia, serif;
+	padding-top: 40px;
+	font-size: x-large;
+	padding-bottom: 40px;
 	height:100%;
 }
 
@@ -76,6 +85,7 @@ img
 	padding-left: 40px;
 	padding-right: 40px;
 	padding-bottom: 40px;
+	height:100vh;
 }
 
 a:hover{
