@@ -1,6 +1,27 @@
+#title
+{
+	background-color: 795548;
+	text-align: center;
+	height: 200px;
+	font-family: Georgia, serif;
+	padding: 50px;
+	color: white;
+	text-transform: uppercase;
+}
+
 body{
 	padding-top:0;
 	margin-left:232px;
+}
+
+li
+{
+	text-align: center;
+	font-size: x-large;
+	color: black;
+	height: 100vh;
+	text-transform: uppercase;
+	
 }
 
 .navbar.fixed-left{
@@ -25,3 +46,36 @@ body{
 	flex-direction:column;
 	width:100%;
 	}
+
+.content{
+	text-align: center;
+	font-family: Georgia, serif;
+	padding-top: 40px;
+	font-size: x-large;
+	padding-bottom: 40px;
+}
+
+ul{
+	height: 100vh;
+}
+
+a { text-decoration: none; 
+	color: white;
+	font-family: Georgia, serif;
+	}
+	
+.list-group-item
+{
+	background-color: #4E342E;
+}
+
+img
+{
+	padding-left: 40px;
+	padding-right: 40px;
+	padding-bottom: 40px;
+}
+
+a:hover{
+	color: gray;
+}
